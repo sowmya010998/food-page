@@ -1,0 +1,126 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.bg-container {
+    background-color: #e1f4f5;
+    background-size: cover;
+}
+.parent {
+    background-color: #fff;
+    padding: 16px 78px;
+    display:flex
+}
+.heading01 {
+    color: #0084ff;
+    font-size: 32px;
+    width: 130px;
+    text-transform: uppercase;
+    position: relative;
+    font-weight: bold
+}
+.paragraph01 {
+    margin-top: -16px;
+    font-weight:500;
+    font-family:"Raleway";
+    font-style: italic;
+    font-size: 22px;
+    
+}
+.heading02 {
+    color:#000;
+    font-size: 16px;
+    font-weight: 500;
+}
+.icon01 {
+    padding-left: 8px;
+    padding-top: 20px;
+}
+.heading03 {
+    color: #000;
+    font-size: 32px;
+    font-weight: 600;
+    padding-top:16px;
+    margin-bottom: 20px;
+}
+.icon02 {
+    color: #0084ff;
+    display: inline
+}
+.paragraph02 {
+    display:inline;
+    font-size: 14px;
+    margin-left: 8px;
+    font-weight: 600;
+}
+.button01 {
+    width:auto;
+    border-radius: 15px;
+    background-color: #0084ff;
+    color: #fff;
+    padding: 6px 14px;
+    margin: 5px;
+    cursor: pointer;
+    text-align:center;
+    font-size: 14px;
+    border: 0px solid;
+}
+.button02 {
+    width:auto;
+    border-radius: 15px;
+    color: #0084ff;
+    padding: 6px 14px;
+    margin: 5px;
+    cursor: pointer;
+    text-align:center;
+    font-size: 14px;
+    border: 1px solid #0084ff;
+}
+.manohar {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    text-align: left;
+
+}
+.author {
+    color: #0096ff;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: italic;
+    border-right: 1px solid black;
+
+}
+.date01 {
+    color: rgba(0,0,0,0.7);
+    font-size: 16px;
+    font-weight: 600;
+}
+.paragraph03 {
+    font-size: 14px;
+    font-weight:400;
+    color:rgba(0,0,0,0.6);
+    margin: 4px 0;
+
+}
+.bg-container02 {
+    background-color: #172146;
+    padding: 80px;
+}
+.heading05{
+    color:#87998c;
+    font-weight:bold;
+    font-size: 18px;
+}
+.child{
+    color:#fff;
+    font-weight:500;
+    font-size: 16px;
+}
+.icon03 {
+    color:#fff;
+    font-size: 25px;
+}
+
+
